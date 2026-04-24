@@ -75,7 +75,83 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## UX Designer
+
+### Role Summary
+UX Designers ensure the user experience is intuitive, accessible, and validated with actual users.
+
+### Responsibilities
+- Integrate UX practices into planning, design, and review.
+- Participate in design reviews and user validation sessions.
+- Advocate for usability and accessibility best practices.
+
+### Interactions
+- Works with Product Manager to align user needs with business objectives.
+- Collaborates with Developers during feature refinement and review.
+
+---
+
+## Security Champion
+
+### Role Summary
+Advocates and consults for secure design and development practices.
+
+### Responsibilities
+- Raise awareness of security best practices and risks.
+- Validate compliance with internal/external security standards.
+- Review release plans for security implications.
+
+### Interactions
+- Supports Developers with threat modeling, static analysis.
+- Partners with PM for incident and risk escalation.
+
+---
+
+## DevOps Engineer
+
+### Role Summary
+Enables smooth, automated delivery and reliable operations.
+
+### Responsibilities
+- Manage CI/CD pipelines.
+- Ensure deployments are reproducible, reliable, and meet Definition of Done (DoD).
+- Monitor system health during and after releases.
+
+### Interactions
+- Collaborates with Developers during incident response.
+- Coordinates with QA to manage post-release verification.
+
+---
+
+## Data Analyst
+
+### Role Summary
+Turns data into actionable insights for product and technical teams.
+
+### Responsibilities
+- Define and report on product and system metrics.
+- Support data-driven decision making for PMs and stakeholders.
+- Design dashboards and perform ad hoc analyses.
+
+### Interactions
+- Engages with Product and Project Managers to define metrics and track KPIs.
+
+---
+
+## Subject Matter Expert (SME)
+
+### Role Summary
+Provides domain expertise and guidance for specialized topics.
+
+### Responsibilities
+- Ensure best practices and regulatory compliance where applicable.
+- Participate in reviews and consult on domain-relevant decisions as needed.
+
+### Interactions
+- Engaged by Product/Project Manager for requirement gathering, reviews, or escalation paths.
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
-
